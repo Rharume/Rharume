@@ -6,7 +6,7 @@
 
 👾Estudante do 5º período de Bacharelado em Sistemas de Informação (BSI)
 
-💮Idiomas: Português C1, Coreano B1, Inglês A1⌛
+💮Idiomas: Português C2, Coreano B1, Inglês A1⌛
 
 🗨Buscando oportunidade de estágio em desenvolvimento web
 ##
