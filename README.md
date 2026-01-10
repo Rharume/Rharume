@@ -8,6 +8,7 @@ Oiê! Eu sou a Rharume🤍
 
 💮Idiomas: Português, Coreano 
 
+🗨Buscando oportunidade de estágio em desenvolvimento web
 ##
 
 -Hobbies & Interesses
@@ -16,7 +17,7 @@ Oiê! Eu sou a Rharume🤍
 
 💻 Desenvolvimento de projetos pessoais
 
-🌍 Aprender novos idiomas e culturas
+🌍 Aprender novos idiomas
 
 ##
 
@@ -31,4 +32,6 @@ Oiê! Eu sou a Rharume🤍
   <a href="https://www.linkedin.com/in/rharume-neres-62b63b386/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-          
+
+          “천천히 가도 괜찮아, 멈추지만 않으면 돼.” 
+    “𝗡𝗮̃𝗼 𝘁𝗲𝗺 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝗮 𝗶𝗿 𝗱𝗲𝘃𝗮𝗴𝗮𝗿, 𝗱𝗲𝘀𝗱𝗲 𝗾𝘂𝗲 𝘃𝗼𝗰𝗲̂ 𝗻𝗮̃𝗼 𝗽𝗮𝗿𝗲.”
