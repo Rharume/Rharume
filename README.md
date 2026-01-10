@@ -1,5 +1,5 @@
-Oiê! Eu sou a Rharume🤍
-안녕하세요! 하루미입니다🤍
+# Oiê! Eu sou a Rharume🤍
+# 안녕하세요! 하루미입니다🤍
 
 
 
