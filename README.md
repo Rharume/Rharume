@@ -8,7 +8,7 @@
 
 💮Idiomas: Português C2, Coreano B1, Inglês A1⌛
 
-🗨Buscando oportunidade de estágio em desenvolvimento web
+🗨Buscando oportunidade de estágio 
 ##
 
 -Hobbies & Interesses
